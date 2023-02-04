@@ -1,0 +1,177 @@
+body
+{
+    background-color:lightblue;
+}
+
+ul
+{
+    text-align:center;
+    list-style-type: none;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+        padding-bottom:1%;
+   text-decoration: none;
+    text-decoration-line: none;
+        font-size:22px;
+    font-family:cursive;
+}
+
+
+h1
+{
+    color: navy;
+    margin-left: 20px;
+        text-align:center;
+    padding-top: 50px
+        padding-bottom:50px;
+        font-size:42px;
+    font-family:cursive;
+}
+
+div
+{
+  background-color: ;  
+}
+#rows1
+{
+
+     color: navy;
+    margin-left: auto;
+    margin-right: auto;
+        text-align:center;
+    padding-top: 50px
+        padding-bottom:50px;
+        font-size:42px;
+    font-family:cursive;
+}
+
+/* New Table added unit 3 */
+  table,th,td 
+      {
+          border: 1px solid purple;
+      }
+               table
+      {
+                  
+            border-collapse: collapse;
+            background-color: lightcyan;
+            margin-left: auto;
+            margin-right: auto;
+        }
+      th
+      {
+          height: 30px;
+          width: 150px;
+           
+      }
+      
+            td
+      {
+          text-align: center;
+
+        
+      }
+
+
+
+.first{
+    float:left;
+    overflow: auto;
+    height:10%;
+    width:10%;
+    background-image:url(Doggie%20Border.PNG);
+    padding:350px 10px;
+   border-left: 10%;
+    border-right:10%;
+    background-repeat: no-repeat;
+}
+.second
+{
+    
+    
+    float:right;
+    overflow:auto;
+    height:10%;
+    width:10%;
+    background-image:url(Doggie%20Border.PNG);
+    padding:350px 0px;
+    border-right:10%;
+    border-left: 0%;
+   background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+h2{
+     color:gold;
+    background-color: royalblue;
+    margin-right: 40px;
+        text-align:center;
+    padding-top: 50px
+        padding-bottom:50px;
+        font-size:42px;
+    font-family:cursive;
+}
+h5
+{
+    
+    color:blueviolet;
+   text-align: center; 
+    margin-right: 40px;
+        text-align:center;
+    padding-top: 50px
+        padding-bottom:50px;
+        font-size:37px;
+    font-family:cursive;
+}
+p
+{
+     
+    text-align: center; 
+    margin-right: 40px;
+        text-align:center;
+        
+        font-size:32px;
+    font-family:monospace;
+}
+
+
+
+
+h3
+{
+     text-align: center; 
+    color:blueviolet;
+    margin-right: 40px;
+        text-align:center;
+    padding-top: 100px;
+        padding-bottom:10px;
+        font-size:22px;
+    font-family:cursive;
+}
+
+footer
+{
+    text-align:center;
+    font-size:42px;
+}
+    .center
+{
+   display: block;
+    margin-left: auto;
+        margin-right:auto;
+        width:auto;
+    height: auto;
+}
+    
+
+
+        
+     
+      
